@@ -1,16 +1,16 @@
 {
-"name": "texas789g",
-"theme": "texas 789g",
-"version": "9.4.1",
-"description": "texas 789g ทางเข้าหลักเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้เครดิตฟรี",
-"keywords": [
-"texas 789g",
-"texas 789g เครดิตฟรี",
-"texas 789g ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/texas789g",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "texas789g",
+  "theme": "texas 789g",
+  "version": "9.5.0",
+  "description": "texas 789g ทางเข้าหลักเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้เครดิตฟรี",
+  "keywords": [
+    "texas 789g",
+    "texas 789g เครดิตฟรี",
+    "texas 789g ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/texas789g",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
